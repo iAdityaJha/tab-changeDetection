@@ -1,5 +1,7 @@
 # React + Vite
 
+This app is just to implement tab change detection feature , which will be part of my upcoming project ExamER, a platform to give and conduct online tests.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
